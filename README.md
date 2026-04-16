@@ -126,4 +126,4 @@ Extend modules via `ModuleExecutor.import_external_module()`. Follow the modular
 
 ## License
 
-Self-contained framework. Use at your own risk.
+This project is provided for educational and authorized security research purposes only. The author assumes no responsibility for any misuse, damage, or illegal activity arising from its use. Users are solely responsible for ensuring compliance with applicable laws and obtaining proper authorization before conducting any testing or network interaction. By using this software, you agree that it is used at your own risk and in accordance with ethical and legal standards.
