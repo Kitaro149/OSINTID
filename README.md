@@ -1,6 +1,6 @@
 # OSINTID - Offensive Security Intelligence & IoT Detection Framework
 
-**Version 1.0**  
+**Version 1.0 **  
 **Author**: DANIEL ISHAKU ANDO  
 **Website**: danishkute.carrd.co  
 
