@@ -411,7 +411,11 @@ class IoTDeviceManager:
         pass
 
     return discovered
-
+       
+def get_devices(self) -> List[Dict]:
+        """Get all registered devices"""
+        with self.lock:
+            return list(self.devices.values())
 
 # ============================================================================
 # SECTION 5: NETWORK RECONNAISSANCE ENGINE
