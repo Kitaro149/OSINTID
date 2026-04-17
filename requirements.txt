@@ -1,5 +1,17 @@
-colorama
-dnspython
-python-whois
-requests
-psutil
+# =========================
+# OSINTID Core Dependencies
+# =========================
+colorama>=0.4.6
+dnspython>=2.6.1
+python-whois>=0.9.4
+requests>=2.32.3
+psutil>=5.9.8
+
+# =========================
+# Optional (Extended Features)
+# =========================
+flask>=3.0.3
+fastapi>=0.115.0
+uvicorn>=0.30.6
+neo4j>=5.23.1
+sqlalchemy>=2.0.35
